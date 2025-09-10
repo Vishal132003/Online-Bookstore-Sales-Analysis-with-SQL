@@ -39,6 +39,5 @@ It includes queries of increasing complexity to explore **books, customers, orde
 ##  How to Run
 
 1. Create the database:
-   ```sql
    CREATE DATABASE onlinebookstore_db;
    USE onlinebookstore_db;
